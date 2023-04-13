@@ -1,0 +1,12 @@
+.env
+scanners/ethereum/node_modules
+scanners/ethereum/*.log
+scanners/polygon/node_modules
+scanners/polygon/*.log
+analyzers/ethereum/node_modules
+analyzers/ethereum/*.log
+analyzers/polygon/node_modules
+analyzers/polygon/*.log
+api/node_modules
+api/*.log
+db/node_modules
